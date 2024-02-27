@@ -1,7 +1,7 @@
 // components/LottieAnimation.js
 import React from 'react';
 import Lottie from 'lottie-react';
-import animationData from '../public/animation.json'; // Replace with your animation JSON file
+import animationData from './public/animation.json'; // Replace with your animation JSON file
 
 const LottieAnimation = () => {
   const defaultOptions = {
